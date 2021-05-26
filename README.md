@@ -8,3 +8,4 @@ El equipo de trbaajo está compuesto por:
 - Camilo Torres Mestra (juctorresme@unal.edu.co)
 
 
+Para escribir texto en Markdown ver: https://stackedit.io/
