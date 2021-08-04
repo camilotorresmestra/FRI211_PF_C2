@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Metadata Version="1">
+  <Id>613ade6b6e8c4daab1e75c4040a50dd9</Id>
+  <Name>Recording-4</Name>
+  <EventCount>540</EventCount>
+  <StartedUtc>2021-08-03T05:38:14.3172447Z</StartedUtc>
+  <EndedUtc>2021-08-03T05:38:29.7513667Z</EndedUtc>
+  <TotalTime>12.024</TotalTime>
+  <Signals>
+    <Signal index="0" id="RobotStudio.ControllerSource\{E72A5E09-E113-4913-BBAB-46FBE989F383}\ROB_1\MotionSignal\9875" dataType="String" displayPath="Señales de controlador\#{E72A5E09-E113-4913-BBAB-46FBE989F383}\Controlador1\Unidades mecánicas\ROB_1 [IRB1600_Grip]\Punto\Punto cambiado" interpolationType="Discrete" quantity="None" tag="MotionSignal" />
+    <Signal index="1" id="RobotStudio.ControllerSource\{E72A5E09-E113-4913-BBAB-46FBE989F383}\ROB_1\MotionSignal\9873" dataType="String" displayPath="Señales de controlador\#{E72A5E09-E113-4913-BBAB-46FBE989F383}\Controlador1\Unidades mecánicas\ROB_1 [IRB1600_Grip]\Punto\Herramienta cambiada" interpolationType="Discrete" quantity="None" tag="MotionSignal" />
+    <Signal index="2" id="RobotStudio.ControllerSource\{E72A5E09-E113-4913-BBAB-46FBE989F383}\ROB_1\MotionSignal\9872" dataType="String" displayPath="Señales de controlador\#{E72A5E09-E113-4913-BBAB-46FBE989F383}\Controlador1\Unidades mecánicas\ROB_1 [IRB1600_Grip]\Punto\Objeto de trabajo cambiado" interpolationType="Discrete" quantity="None" tag="MotionSignal" />
+    <Signal index="3" id="RobotStudio.ControllerSource\{E72A5E09-E113-4913-BBAB-46FBE989F383}\ROB_1\MotionSignal\9869" dataType="Bit" displayPath="Señales de controlador\#{E72A5E09-E113-4913-BBAB-46FBE989F383}\Controlador1\Unidades mecánicas\ROB_1 [IRB1600_Grip]\Punto\Punto fino" interpolationType="Discrete" quantity="None" tag="MotionSignal" />
+  </Signals>
+  <Sources>
+    <Source type="Station" id="{8f140de6-85e1-4a6d-b5e8-d40473144384}" displayName="ProyectoC2_Bohorquez_Parga_Torres_Test1" />
+  </Sources>
+</Metadata>
